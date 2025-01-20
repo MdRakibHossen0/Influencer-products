@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ponnala&display=swap');
+
+.ponnala-regular {
+    font-family: "Ponnala", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-thin {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* share style */
+.primary-color {
+    color: rgba(58, 58, 58, 1);
+}
+
+/*  Nav Section Design */
+
+.nav-bar {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 140px;
+
+}
+
+.nav-products {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+
+}
+
+.nav-products a {
+    text-decoration: none;
+}
+
+/* Header section Style */
+
+.header-container {
+    display: flex;
+}
+
+.header {
+    width: 582px;
+    margin-left: 120px;
+}
+
+.header-title {
+    font-size: 3.25rem;
+}
+
+.header span {
+    font-weight: 800;
+}
+
+.header-description {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.header-btn {
+    font-size: 1rem;
+    font-weight: 800;
+    border-radius: 41px;
+    color: #FFFFFF;
+    background-color: #E02C6D;
+    border: none;
+
+}
+
+.header-image img {
+    width: 440px;
+
+}
+
+.header-image {
+    background-image: url(../images/Circle\ design.svg);
+
+}
+
+/* sopnsor section style */
+
+.Sponsor-container {
+    width: 1110px;
+    text-align: center;
+
+}
+
+.image-container {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 165px;
+}
