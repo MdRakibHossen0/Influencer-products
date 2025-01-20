@@ -22,6 +22,8 @@
 }
 
 /* share style */
+
+
 .primary-color {
     color: rgba(58, 58, 58, 1);
 }
@@ -109,7 +111,7 @@
 /* sopnsor section style */
 
 .Sponsor-container {
-    margin: 100px 120px;
+    margin: 100px 165px;
     display: flex;
     text-align: center;
     justify-content: center;
@@ -179,11 +181,95 @@
 }
 
 .box-container {
-    margin: 100px 120px;
+    margin: 100px 196px;
     gap: 30px;
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(3, 1fr);
 }
 
+.seemore-btn {
+    margin-top: 50px;
+    color: #E02C6D;
+    text-align: end;
 
+}
+
+/* Featured products style */
+.featured-title {
+    width: 610px;
+    font-size: 37px;
+    font-weight: 800;
+    color: #0A0826;
+    margin: 0px;
+
+
+
+}
+
+.featured-description {
+    font-size: 1rem;
+    color: #6C6C6C;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.Join-btn {
+
+    background-color: #E02C6D;
+    font-size: 1rem;
+    border: none;
+    color: #FFFFFF;
+    height: 50px;
+    padding-left: 20px;
+
+}
+
+.arrow {
+    color: #FFFFFF;
+    color: #FFFFFF;
+    font-size: 33.2px;
+    width: 50px;
+    background-color: #E02C6D;
+    border: none;
+    margin: 0px;
+
+
+}
+
+.Join-Now-btn {
+
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+    padding-bottom: 20px;
+    width: 155px;
+    height: 44px;
+    padding-top: 14px;
+}
+
+.Featured {
+  
+    margin-left: 165px;
+    margin-right: 165px;
+    width: 1110px;
+    height: 270px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.Featured-image {
+   
+    width: 404px;
+    height: 270px;
+    border-radius: 7px;
+}
+
+
+.featured-area {
+
+    margin-left: 100px;
+
+}
