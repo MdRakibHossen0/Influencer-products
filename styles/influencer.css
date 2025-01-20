@@ -295,3 +295,12 @@
     margin-top: 0px;
 
 }
+
+.icon {
+    width: 176px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
