@@ -249,7 +249,7 @@
 }
 
 .Featured {
-  
+
     margin-left: 165px;
     margin-right: 165px;
     width: 1110px;
@@ -261,7 +261,7 @@
 }
 
 .Featured-image {
-   
+
     width: 404px;
     height: 270px;
     border-radius: 7px;
@@ -271,5 +271,27 @@
 .featured-area {
 
     margin-left: 100px;
+
+}
+
+/* footer style*/
+.footer {
+    margin-top: 100px;
+    padding-top: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #0A0826;
+}
+
+.footer-title {
+    font-size: 1.5rem;
+    font-size: 800;
+    margin: 0px;
+}
+
+.Copyright {
+    font-size: 1rem;
+    font-size: 800;
+    margin-top: 0px;
 
 }
